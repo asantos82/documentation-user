@@ -112,6 +112,8 @@ status will change to **Inactive** immediately.
 
 The user is now deactivated. 
 
+.. danger:: **Never** deactivate the main user (*admin*)
+
 Uninstalling Apps
 =================
 
