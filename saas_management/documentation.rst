@@ -1,6 +1,7 @@
 :banner: banners/saas_management.jpg
 
 .. _saas_management/documentation:
+
 ===================================
 How to manage your online databases
 ===================================
@@ -54,13 +55,18 @@ have to give a name to your duplicate, then click **Duplicate Database**.
     :align: center
 
 .. danger:: A duplicated database has the same behaviour as a real one:
-        * Emails are sent
-        * Payments are processed (in the e-commerce, for example)
-        * Delivery orders (shipping providers) are sent
-        * Etc.
-    It is **strongly** advised to test behaviour using sample
-    customers/products (with a `disposable e-mail <http://www.mailinator.com>`__
-    address, for example)
+
+  * Emails are sent
+
+  * Payments are processed (in the e-commerce, for example)
+
+  * Delivery orders (shipping providers) are sent
+
+  * Etc.
+
+  It is **strongly** advised to test behaviour using sample
+  customers/products (with a `disposable e-mail <http://www.mailinator.com>`__
+  address, for example)
 
 After a few seconds, you will be logged in your duplicated database.
 Notice that the url uses the name you chose for your duplicated
@@ -85,14 +91,14 @@ access rights.**
 |   |settings|   | |browse_users| |
 +----------------+----------------+
 
-You’ll then see the list of your users.
+You'll then see the list of your users.
 
 .. image:: media/list_users.png
     :align: center
 
 .. note:: The pre-selected filter *Internal Users* shows your paying
     users (different from the *Portal Users* which are free). If you
-    remove this filter, you’ll get all your users (the ones you pay for
+    remove this filter, you'll get all your users (the ones you pay for
     and the portal ones)
 
 In your list of users, click on the user you want to deactivate. As soon
@@ -121,7 +127,7 @@ Apps** to access the list of your installed applications.
 |   |settings|   | |browse_apps|  |
 +----------------+----------------+
 
-In your applications’ dashboard, you will see all the icons of your
+In your applications' dashboard, you will see all the icons of your
 applications. Click on the application you want to uninstall. Then, on
 the form of the application, click on **Uninstall**.
 
